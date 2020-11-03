@@ -1,7 +1,7 @@
 import pyowm
 
 ## Copy and paste your key into the line below
-KEY = 'obtain your own Api-key'
+KEY = ### Obtain your own Api-key
 
 ## Place your location (city, country code) into the line below
 location = 'New York,us'
