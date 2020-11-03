@@ -1,7 +1,7 @@
 import pyowm
 
 ## Copy and paste your key into the line below
-KEY = '1234567890abcdefghijklmnopqrstuvwxyz'
+KEY = ### Obtain your own Api-key on https://openweathermap.org/
 
 ## Place your location (city, country code) into the line below
 location = 'Bordeaux,fr'
