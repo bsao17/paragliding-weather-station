@@ -4,7 +4,7 @@ import pyowm
 KEY = '1234567890abcdefghijklmnopqrstuvwxyz'
 
 ## Place your location (city, country code) into the line below
-location = 'New York,us'
+location = 'Bordeaux,fr'
 
 owm = pyowm.OWM(KEY)
 fc = owm.three_hours_forecast(location)
